@@ -1,0 +1,32 @@
+[
+    {
+    "categoria": "Crescita Personale",
+    "concetto": "Regola dell'80/20 (Pareto)",
+    "descrizione": "L'80% dei risultati deriva dal 20% delle azioni. Identifica ciò che conta davvero."
+    },
+    {
+    "categoria": "Relazioni",
+    "concetto": "Ascolto Attivo",
+    "descrizione": "Ascolta per capire, non per rispondere. La comprensione è la base della fiducia."
+    },
+    {
+    "categoria": "Finanze",
+    "concetto": "Interesse Composto",
+    "descrizione": "Piccoli risparmi costanti nel tempo crescono esponenzialmente. Il tempo è più importante del capitale."
+    },
+    {
+    "categoria": "Benessere",
+    "concetto": "Ritmo Circadiano",
+    "descrizione": "Rispettare i cicli di luce e buio migliora drasticamente energia, umore e salute a lungo termine."
+    },
+    {
+    "categoria": "Produttività",
+    "concetto": "Legge di Parkinson",
+    "descrizione": "Il lavoro si espande fino a occupare tutto il tempo disponibile. Datti scadenze brevi."
+    },
+    {
+    "categoria": "Mentalità",
+    "concetto": "Resilienza vs Antifragilità",
+    "descrizione": "La resilienza resiste agli urti, l'antifragilità migliora grazie ad essi. Usa le difficoltà per evolvere."
+    }
+]

@@ -1,0 +1,30 @@
+extends layout
+
+block content
+    h1= title
+    p Ecco la pagina famosa con la lista delle nozioni
+  
+    table 
+        thead
+            tr
+                th Categoria
+                th Concetto
+                th Descrizione
+        tbody 
+            each nozione in nozioni
+                tr
+                    td= nozione.categoria
+                    td= nozione.concetto
+                    td= nozione.descrizione
+    form(action="/nozioni", method="get") 
+        p Filtro
+        label(for="categoria") Filtra per categoria:
+            input(type="text" name="categoria"  value= categoria)
+        label(for="concetto") Filtra per concetto:
+            input(type="text" name="concetto" value= concetto)
+        label(for="descrizione") Filtra per descrizione:
+            input(type="text" name="descrizione" value= descrizione)
+        button(type="submit") Cerca
+        
+            
+
